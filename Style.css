@@ -2,3 +2,27 @@
   margin: 0%;
   padding: 0%;
 }
+
+.fotopersonal {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.texto {
+  color: white;
+}
+
+.bg_custom_dark {
+  background-color: black;
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+}
