@@ -26,3 +26,20 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+.cuadros {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box3 {
+  width: 50%;
+  height: 100%;
+  border-color: #ff5733 !important;
+}
+
+.box4 {
+  width: 50%;
+  height: 100%;
+  border-color: #28b463 !important;
+}
